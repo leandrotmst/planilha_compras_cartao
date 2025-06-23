@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.env
+.vscode/
+
+# Jupyter Notebook (if you ever use it)
+.ipynb_checkpoints
+
+# Excel files
+*.xlsx
+*.xls
+*.xlsm
+*.xltx
+*.xltm
+
+# Operating System Files
+.DS_Store
+.Trash
+Thumbs.db
+
+# My IDE (VS Code)
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/
